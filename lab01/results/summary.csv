@@ -1,0 +1,15 @@
+metric,value
+variant,10.0
+n_files,798.0
+n_breeds,4.0
+n_cats,399.0
+n_dogs,399.0
+min_width,150.0
+median_width,500.0
+max_width,1646.0
+min_height,116.0
+median_height,375.0
+max_height,1600.0
+n_non_rgb,1.0
+n_non_jpeg,1.0
+n_with_xml,397.0
