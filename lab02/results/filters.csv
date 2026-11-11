@@ -1,0 +1,12 @@
+filter,noise,ms,psnr,ssim
+bilateral,kind=sp amount=0.08,7.0646,15.9503,0.2137
+blur3,kind=sp amount=0.08,0.5369,23.9841,0.5055
+blur5,kind=sp amount=0.08,0.698,25.3984,0.5965
+blur7,kind=sp amount=0.08,0.4483,25.2626,0.6192
+gauss3,kind=sp amount=0.08,0.1626,23.4623,0.49
+gauss5,kind=sp amount=0.08,0.2211,25.0066,0.5699
+gauss7,kind=sp amount=0.08,0.3285,25.7738,0.6316
+median3,kind=sp amount=0.08,0.1776,33.9374,0.9189
+median5,kind=sp amount=0.08,1.1186,30.7691,0.8311
+median7,kind=sp amount=0.08,16.4724,28.8555,0.7679
+none,kind=sp amount=0.08,0.001,15.9086,0.2479
